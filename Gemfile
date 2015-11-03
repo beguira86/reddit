@@ -1,18 +1,10 @@
 source 'https://rubygems.org'
 
-<<<<<<< HEAD
-ruby "2.2.2"
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.4'
-# Use sqlite3 as the database for Active Record
-# gem 'sqlite3'  This is only commented out so that I can remember where it was initially before the shift to postgres 
-=======
 ruby "2.2.2" # specify which version of ruby is being used
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
->>>>>>> aad7ff9d9d0c1d967c20b57f8085ccb3b9cf20ca
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -43,39 +35,23 @@ gem 'bcrypt', '~> 3.1.7'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
-  gem 'sqlite3'
+
   gem 'pry'
 
-<<<<<<< HEAD
-=======
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
 
->>>>>>> aad7ff9d9d0c1d967c20b57f8085ccb3b9cf20ca
 end
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
-  
+
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
 
 group :production do
   gem 'pg'
-<<<<<<< HEAD
-  gem 'rails_12factor'
-=======
   gem 'rails_12factor' # used by heroku to serve static assests such as images and stylesheets 
->>>>>>> aad7ff9d9d0c1d967c20b57f8085ccb3b9cf20ca
 end
-
-
-
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> aad7ff9d9d0c1d967c20b57f8085ccb3b9cf20ca
