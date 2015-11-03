@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Reddit</title>
+  <title>Magic!</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
@@ -10,7 +10,7 @@
 
   <nav>
 	 <% if current_user %>
-        <h3 class="nav-title">Welcome to Reddit(kinda), <%= current_user.name %>!</h3>
+        <h3 class="nav-title">Welcome to Nirvana, <%= current_user.name.capitalize %>!</h3>
         <%= link_to "Logout", login_path, method: "delete" %>
     <% else %>
         <%= link_to "Login", login_path %>
