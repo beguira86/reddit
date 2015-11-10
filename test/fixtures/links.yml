@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  url: MyString
+  title: Farts
+  url: farts.gas.poot
 
 two:
-  title: MyString
-  url: MyString
+  title: The best thing in the world
+  url: www.shutupandtakemymoney.com
