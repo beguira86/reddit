@@ -5,4 +5,9 @@ class LinkTest < ActiveSupport::TestCase
 		link = Link.new
 		assert link.save
 	end
+
+	test "can create links" do
+		
+	end
+
 end

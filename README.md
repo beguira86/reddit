@@ -1,6 +1,6 @@
 == README
 
-[![Build Status](https://travis-ci.org/YOUR-USER-NAME/YOUR-REPO-NAME.svg?branch=master)](http://travis-ci.org/YOUR-USER-NAME/YOUR-REPO-NAME)
+[![Build Status](https://travis-ci.org/beguira86/reddit.svg?branch=master)](https://travis-ci.org/beguira86/reddit)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
