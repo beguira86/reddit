@@ -77,28 +77,28 @@ a:link {
  }
 
 
-.comment-index-page { 
-  background-image: url(http://i.imgur.com/fUAh2ML.gif) no-repeat center center fixed; 
+.comment-index-page {
+  background: url(http://i.imgur.com/fUAh2ML.gif) no-repeat center center fixed; 
   background-size: cover;
 }
 
 .session-new-page {
-  background-image: url(https://media.giphy.com/media/MWDLf1EIUsoNy/giphy.gif) no-repeat center center fixed; 
+  background: url(https://media.giphy.com/media/MWDLf1EIUsoNy/giphy.gif) no-repeat center center fixed; 
   background-size: cover;
 }
 
 .links-index-page {
-  background-image: url(http://i.imgur.com/DKOpBoz.gifv) no-repeat center center fixed; 
+  background: url(http://i.imgur.com/DKOpBoz.gif) no-repeat center center fixed; 
   background-size: cover;
 }
 
 .links-new-page {
-  background-image: url(http://i.imgur.com/SqAsqlq.gif) no-repeat center center fixed; 
+  background: url(http://i.imgur.com/SqAsqlq.gif) no-repeat center center fixed; 
   background-size: cover;	
 }
 
 .register-new-page {
-  background-image: url(https://camo.thechunk.net/e4122f452456bc7cc3646a59856a5a7d44b1a787?url=http%3A%2F%2Fstream1.gifsoup.com%2Fview3%2F4623171%2Fyou-re-one-of-us-o.gif) no-repeat center center fixed; 
+  background: url(https://camo.thechunk.net/e4122f452456bc7cc3646a59856a5a7d44b1a787?url=http%3A%2F%2Fstream1.gifsoup.com%2Fview3%2F4623171%2Fyou-re-one-of-us-o.gif) no-repeat center center fixed; 
   background-size: cover;	
 }
 
