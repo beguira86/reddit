@@ -7,6 +7,7 @@ class LinkTest < ActiveSupport::TestCase
 	end
 
 	test "can create links" do
+		link = Link.new
 		
 	end
 

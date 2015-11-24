@@ -17,4 +17,9 @@ class CommentsController < ApplicationController
     comment.destroy
     redirect_to comments_path
   end
+
+
+  private
+  def 
+
 end
